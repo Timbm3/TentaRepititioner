@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tenta_6", "Tenta_6\Tenta_6.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tenta_6.Tests", "Tenta_6.Tests\Tenta_6.Tests.csproj", "{22703202-F14A-4BEB-AEBD-E0D94469B1C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tenta_7", "Tenta_7\Tenta_7.csproj", "{1BDEE369-C3BB-4F9D-AD71-2C3B52712C4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tenta_7.Tests", "Tenta_7.Tests\Tenta_7.Tests.csproj", "{6C52ECBE-134A-4761-BFB4-C7CDB81EB54A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{22703202-F14A-4BEB-AEBD-E0D94469B1C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22703202-F14A-4BEB-AEBD-E0D94469B1C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22703202-F14A-4BEB-AEBD-E0D94469B1C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BDEE369-C3BB-4F9D-AD71-2C3B52712C4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BDEE369-C3BB-4F9D-AD71-2C3B52712C4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BDEE369-C3BB-4F9D-AD71-2C3B52712C4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BDEE369-C3BB-4F9D-AD71-2C3B52712C4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C52ECBE-134A-4761-BFB4-C7CDB81EB54A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C52ECBE-134A-4761-BFB4-C7CDB81EB54A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C52ECBE-134A-4761-BFB4-C7CDB81EB54A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C52ECBE-134A-4761-BFB4-C7CDB81EB54A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
